@@ -1,0 +1,2 @@
+first start server : nodemon server.js
+second start react : node start
